@@ -1,1 +1,1 @@
-I'm a mathematics PhD candidate at UT Austin. My passion is data science and machine learning. In this repository I share some of my ML and data analysis projects.
+I'm a mathematics PhD candidate at UT Austin. My passion is data science and machine learning. In this repository I share some of my ML and data analysis projects. Other projects include: https://github.com/RuiboZhang98/CIBMTR_post_hct_survival and https://github.com/dclark202/auto-censoring
